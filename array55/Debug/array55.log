@@ -1,0 +1,20 @@
+﻿Build started 8/2/2013 2:58:09 PM.
+     1>Project "C:\workspace\MyCode\eveluator\array55\array55.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\array55.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\array55.unsuccessfulbuild".
+         Touching "Debug\array55.lastbuildstate".
+     1>Done Building Project "C:\workspace\MyCode\eveluator\array55\array55.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
